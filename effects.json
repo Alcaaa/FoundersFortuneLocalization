@@ -12,7 +12,7 @@
 	"effectDesc_Bleeding": {
 		"english": "%firstName% bleeding! Make sure that his wounds are bandaged properly. Otherwise, %firstName% could die of blood loss.",
 		"german": "%firstName% blutet! Stelle sicher, dass seine Verletzungen ordentlich verbunden werden. Ansonsten könnte %firstName% an Blutverlust sterben.",
-		"french": "%firstName% saigne ! Assurez-vous que ses blessures soient bandées. Sinon, %firstName% pourrait mourir.",
+		"french": "%firstName% saigne ! Assurez-vous que ses blessures soient correctement bandées. Sinon, %firstName% pourrait mourir.",
 		"spanish": "¡%firstName% está sangrando! Asegúrate de que sus heridas sean correctamente vendadas. De otra manera %firstName% podría morir desangrado.",
 		"dutch": "%firstName% bloed! Zorg ervoor dat zijn wonden goed zijn verbonden. Anders, %firstName% kan dood gaan aan bloedverlies.",
 		"bulgarian": "%firstName% кърви! Бъдете сигурни, че неговите рани са превързани правилно. Иначе, %firstName% може да умре от кръвозагоба.",
